@@ -3151,11 +3151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectASP\\ProjectASP.csproj",
+      "projectUniqueName": "C:\\Users\\SV\\Downloads\\ProjectASP\\ProjectASP.csproj",
       "projectName": "ProjectASP",
-      "projectPath": "D:\\ProjectASP\\ProjectASP.csproj",
+      "projectPath": "C:\\Users\\SV\\Downloads\\ProjectASP\\ProjectASP.csproj",
       "packagesPath": "C:\\Users\\SV\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectASP\\obj\\",
+      "outputPath": "C:\\Users\\SV\\Downloads\\ProjectASP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
